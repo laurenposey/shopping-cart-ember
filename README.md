@@ -1,6 +1,6 @@
 # _EPICODUS INDEPENDENT PROJECT | Shopping Cart_
 
-#### _Questions and Answers, August 2016_
+#### _Shopping Cart, August 2016_
 
 #### By _**Lauren Posey and Olivia Hinton**_
 
